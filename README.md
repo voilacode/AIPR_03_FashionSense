@@ -1,8 +1,17 @@
-# Coreapp: Barebone Framework for Building Projects
+# FashionSense: AI Personal Stylist Application
 
 ## 🚀 Introduction
 
-**Coreapp** is a minimalistic code framework designed to serve as a foundation for building other applications. Built with **Node.js, Express, Tailwind CSS, and MySQL**, this framework provides the essential features required for authentication, role-based access control, and AI-driven content generation via the GPT Rapid API.
+**FashionSense** is an AI-powered personal stylist application designed to help users make fashionable clothing and accessory choices based on various factors like style, occasion, color preferences, weather, and budget. Built with **Node.js, Express, Tailwind CSS, and MySQL**, FashionSense leverages AI technology powered by the GPT Rapid API to generate personalized outfit suggestions.
+
+The app offers:
+
+- **Personalized outfit suggestions** based on user input.
+- **Clothing and accessories recommendations** for various occasions.
+- **Weather-sensitive fashion choices**.
+- **Budget-conscious styling options** for every user.
+
+FashionSense's sleek and responsive design, powered by **Tailwind CSS**, ensures an optimal user experience across all devices. With a focus on simplicity, the app makes personal styling accessible and fun for everyone.
 
 ## 🎯 Features
 
@@ -25,8 +34,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/voilacode/coreapp.git
-cd coreapp
+git clone https://github.com/voilacode/AIPR_03_FashionSense.git
+cd AIPR_03_FashionSense
 npm i
 ```
 
